@@ -164,3 +164,123 @@ Se utilizan para identificación y descripción de:
 
 * Categoría del producto
 
+
+## Procesos ( Throughput )
+
+¿Qué hace el sistema con esos datos?
+
+el sistema para Beauty Studio no solo almacena los datos, sino que los procesa, organiza
+
+y transforma en información útil para la toma de decisiones. Las principales funciones que realiza son:
+
+1. Almacenamiento:
+
+* Guarda los datos en una base de datos estructurada.
+
+* Organiza la información en tablas (productos, ventas, usuarios, proveedores).
+
+* Mantiene un historial de transacciones.
+
+2. Procesamiento
+
+* Calcula automáticamente el total de cada venta.
+
+* Descuenta del inventario la cantidad vendida.
+
+* Genera cálculos de ingresos diarios, semanales o mensuales.
+
+4. Generación de información (salidas):
+
+* Reportes de ventas.
+
+* Reportes de inventario.
+
+* Resúmenes financieros.
+
+¿Valida?
+
+Sí, el sistema debe realizar validaciones automáticas para garantizar la integridad, 
+
+consistencia y confiabilidad de la información ingresada en Beauty Studio.
+
+1. Validación de campos obligatorios:
+
+* Verifica que no se dejen campos vacíos (ej: nombre del producto, precio, cantidad, etc).
+
+2. Validación de tipo de dato:
+
+* Que el precio sea numérico.
+
+* Que la cantidad sea un número entero.
+
+* Que la fecha tenga un formato válido.
+
+¿Calcula?
+
+Sí, el sistema para Beauty Studio realiza cálculos automáticos como parte del procesamiento
+
+de datos, con el fin de generar información precisa.
+
+1. Cálculo del total de la venta:
+
+* Multiplica el precio del producto por la cantidad vendida.
+
+* Suma todos los productos para obtener el valor total de la factura.
+
+Ejemplo:
+
+Total = Precio × Cantidad
+
+2. Actualización del inventario:
+
+* Resta automáticamente la cantidad vendida al stock disponible.
+
+Ejemplo:
+
+Nuevo stock = Stock actual − Cantidad vendida
+
+3. Cálculo de ingresos:
+
+* Suma todas las ventas del día, semana o mes.
+
+¿Guarda?
+
+Si, el sistema para Beauty Studio almacena permanentemente la información en una base de datos estructurada.
+
+1. Información de productos:
+
+* Código
+
+* Nombre
+
+* Precio
+
+* Cantidad disponible
+
+* Nivel mínimo de stock
+
+2. Registro de ventas:
+
+* Número de venta
+
+* Fecha y hora
+
+* Productos vendidos
+
+* Cantidad
+
+* Total pagado
+
+* Método de pago
+
+3. Información de usuarios:
+
+* Nombre del empleado
+
+* Usuario
+
+* Rol dentro del sistema
+
+El sistema no solo procesa y valida la información, sino que también la guarda de manera segura y
+
+organizada, asegurando disponibilidad y confiabilidad para la gestión administrativa de Beauty Studio.
