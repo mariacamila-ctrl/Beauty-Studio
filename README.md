@@ -1,6 +1,6 @@
 # Beauty-Studio
 
-# PROYECTO GRUPAL:
+## PROYECTO GRUPAL:
 
 Nombre Equipo: los galácticos
 
@@ -14,7 +14,7 @@ victor alejandro pantoja
 
 maria camila sanchez
 
-# IDENTIFICACION DE LA ORGANIZACION Y EL PROBLEMA:
+## IDENTIFICACION DEL PROBLEMA:
 
 Nombre de la empresa: Beauty Studio
 
@@ -42,7 +42,7 @@ La ausencia de un sistema automatizado limita la toma de decisiones basadas en d
 
 y actualizados, afectando tanto la gestión interna como la atención al cliente.
 
-# SOLUCIÓN PROPUESTA:
+## SOLUCIÓN PROPUESTA:
 
 Se propone el diseño e implementación de un sistema de información que permita automatizar los
 
@@ -66,7 +66,7 @@ de Beauty Studio, aumentando la productividad y la calidad del servicio al clien
 
 ## ARQUITECTURA DEL SISTEMA [ Beauty - Studio ]
 
-## Entradas ( Inputs )
+## 📥 ENTRADAS ( Inputs )
 
 ¿ Qué datos recibe el sistema ?
 
@@ -165,7 +165,7 @@ Se utilizan para identificación y descripción de:
 * Categoría del producto
 
 
-## Procesos ( Throughput )
+## 🔨 PROCESOS ( Throughput )
 
 ¿Qué hace el sistema con esos datos?
 
@@ -285,7 +285,7 @@ El sistema no solo procesa y valida la información, sino que también la guarda
 
 organizada, asegurando disponibilidad y confiabilidad para la gestión administrativa de Beauty Studio.
 
-## Salidas ( outputs )
+## 📥 Salidas ( outputs )
 
 ¿Qué obtiene el usuario?
 
@@ -362,3 +362,88 @@ la toma de decisiones estratégicas y operativas.
 el sistema genera información útil, organizada y automatizada, que facilita el control del 
 
 negocio, mejora la eficiencia operativa y fortalece la gestión administrativa en Beauty Studio.
+
+## 👥 USUARIOS Y ROLES 
+
+¿ Quién usa el sistema ?
+
+Los usuarios que interactúan con el sistema son:
+
+1. Administrador: Es el usuario con mayor nivel de acceso.
+
+Se encarga de:
+
+* Registrar y actualizar productos.
+
+* Gestionar precios y niveles de stock.
+
+* Consultar y generar reportes generales.
+
+* Supervisar el funcionamiento del sistema.
+
+Tiene permisos completos sobre la información.
+
+2. Vendedor o Cajero: Es el usuario operativo del sistema.
+
+Se encarga de:
+
+* Registrar ventas.
+
+* Consultar disponibilidad de productos.
+
+* Emitir comprobantes.
+
+Tiene permisos limitados, principalmente enfocados en el proceso de venta.
+
+¿Todos hacen lo mismo?
+
+No, ya que no todos los usuarios realizan las mismas funciones, el sistema está 
+
+diseñado con roles y permisos diferenciados para garantizar seguridad y control.
+
+¿Por qué no hacen lo mismo?
+
+Porque cada usuario tiene un nivel de acceso distinto, según sus responsabilidades dentro de Beauty Studio.
+
+ 🔒 Administrador:
+
+* Tiene acceso total al sistema.
+
+* Puede registrar, modificar y eliminar productos.
+
+* Gestiona usuarios.
+
+* Consulta todos los reportes.
+
+* Configura parámetros del sistema.
+
+ 🔓 Vendedor o Cajero:
+
+* Registra ventas.
+
+* Consulta disponibilidad de productos.
+
+* No puede modificar configuraciones críticas.
+
+* No puede eliminar información importante.
+
+¿Hay permisos?
+
+Si, l sistema para Beauty Studio debe implementar un control de permisos, con el fin de 
+
+garantizar seguridad, organización y protección de la información.
+
+¿Cómo funcionan los permisos?
+
+Se asignan de acuerdo con el rol del usuario ya sea administrador, vendedor o cajero para mantener una mejor 
+
+seguridad y evitar el robo de informaciòn. El sistema aplica el principio de control de acceso por roles,
+
+lo que significa que cada usuario solo puede realizar las funciones que le corresponden. Esto mejora:
+
+* La seguridad de la información.
+
+* El orden administrativo.
+
+* La responsabilidad de cada usuario dentro del sistema.
+
