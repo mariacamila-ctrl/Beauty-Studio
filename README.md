@@ -285,7 +285,7 @@ El sistema no solo procesa y valida la información, sino que también la guarda
 
 organizada, asegurando disponibilidad y confiabilidad para la gestión administrativa de Beauty Studio.
 
-## 📥 Salidas ( outputs )
+## 📤 Salidas ( outputs )
 
 ¿Qué obtiene el usuario?
 
@@ -447,3 +447,66 @@ lo que significa que cada usuario solo puede realizar las funciones que le corre
 
 * La responsabilidad de cada usuario dentro del sistema.
 
+## 📌 INFORMACIÓN 
+
+¿Qué datos son críticos?
+
+1. Datos de inventario:
+
+* Cantidad disponible de cada producto.
+
+* Código del producto.
+
+* Nivel mínimo de stock.
+
+Estos datos son críticos porque permiten mantener el control de existencias y evitar faltantes de productos.
+
+2. Datos de ventas:
+
+* Número de venta.
+
+* Fecha y hora de la transacción.
+
+* Productos vendidos.
+
+* Cantidad vendida.
+
+* Total de la venta.
+
+Son esenciales porque representan el registro de los ingresos del negocio.
+
+3. Datos de precios
+
+* Precio de venta de los productos.
+
+Un error en estos datos podría generar pérdidas económicas o afectar la rentabilidad del negocio.
+
+¿Qué no se puede perder?
+
+En Beauty Studio, existen ciertos datos que son fundamentales para el funcionamiento del negocio, 
+
+por lo que no se pueden perder, ya que afectarían el control administrativo, las ventas y la organización del inventario.
+
+1. Historial de ventas:
+
+El registro de todas las ventas realizadas (fecha, productos vendidos, cantidad y valor total).
+
+Esta información es esencial porque permite conocer los ingresos del negocio y llevar un control financiero.
+
+2. Información del inventario:
+
+Los datos sobre la cantidad disponible de cada producto y su identificación (nombre, código y precio).
+
+Si esta información se pierde, no sería posible saber qué productos hay disponibles o cuáles deben reponerse.
+
+3. Información de productos:
+
+Los datos básicos de cada producto, como nombre, precio y categoría.
+
+Estos datos permiten identificar y organizar los productos dentro del sistema.
+
+4. Datos de acceso de usuarios:
+
+La información de usuarios, contraseñas y roles. Es importante porque controla quién puede acceder
+
+al sistema y qué acciones puede realizar.
