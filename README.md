@@ -63,3 +63,104 @@ El sistema deberá:
 En conclusión, la implementación del sistema informático contribuirá a mejorar la gestión interna
 
 de Beauty Studio, aumentando la productividad y la calidad del servicio al cliente.
+
+## ARQUITECTURA DEL SISTEMA [ Beauty - Studio ]
+
+## Entradas ( Inputs )
+
+¿ Qué datos recibe el sistema ?
+
+El sistema de información propuesto recibirá diferentes tipos de datos de entrada necesarios para la 
+
+gestión del inventario y las ventas. Estos datos pueden clasificarse de la siguiente manera:
+
+1. Datos de productos:
+
+* Código del producto
+
+* Nombre del producto
+
+* Categoría
+
+* Precio de venta
+
+* Cantidad disponible en inventario
+
+2. Datos de ventas:
+
+* Fecha y hora de la transacción
+
+* Productos vendidos
+
+* Cantidad vendida por producto
+
+* Valor total de la venta
+
+* Método de pago (efectivo, transferencia, tarjeta, etc.)
+
+3. Datos de proveedores:
+
+* Nombre del proveedor
+
+* Número de contacto
+
+* Productos suministrados
+
+* Precio de compra
+
+4. Datos de usuarios del sistema:
+
+* Nombre del empleado
+
+* Usuario y contraseña
+
+* Rol (administrador, vendedor, etc.)
+
+¿Quién los ingresa ?
+
+1. Vendedores o cajeros:
+
+* Registran las ventas diarias.
+
+* Ingresan los productos vendidos y la cantidad.
+
+* Seleccionan el método de pago.
+
+* Generan la factura o comprobante.
+
+2. Administrador del sistema:
+
+* Registra nuevos productos.
+
+* Actualiza precios.
+
+* Modifica cantidades iniciales de inventario.
+
+* Gestiona usuarios y permisos.
+
+¿Son números, texto, archivos?
+
+El sistema para Beauty Studio manejará diferentes tipos de datos, según su necesidad:
+
+1. Datos numéricos:
+
+Se utilizan para cálculos y control cuantitativo:
+
+* Precio de los productos
+
+* Cantidad en inventario
+
+* Cantidad vendida
+
+2. Datos de texto (alfanuméricos):
+
+Se utilizan para identificación y descripción de:
+
+* Nombre del producto
+
+* Código del producto
+
+* Método de pago
+
+* Categoría del producto
+
