@@ -510,3 +510,96 @@ Estos datos permiten identificar y organizar los productos dentro del sistema.
 La información de usuarios, contraseñas y roles. Es importante porque controla quién puede acceder
 
 al sistema y qué acciones puede realizar.
+
+## ¿Qué problema soluciona? 
+
+El sistema para Beauty Studio soluciona problemas en diferentes áreas del negocio:
+
+1. Problema operativo:
+
+Falta de control en el registro de ventas y manejo del inventario, lo que puede generar 
+
+errores o desorganización en los productos disponibles.
+
+2. Problema administrativo:
+
+Dificultad para organizar la información del negocio, consultar ventas y llevar un control claro de los productos.
+
+3. Problema de información:
+
+No contar con datos actualizados y confiables sobre las ventas y el inventario, lo que dificulta la toma de decisiones.
+
+4. Problema de eficiencia:
+
+Procesos manuales que pueden generar pérdida de tiempo y errores humanos al registrar productos y ventas
+
+## ¿A qué nivel de decisión impacta?
+
+El sistema para Beauty Studio impacta principalmente en los siguientes niveles de decisión:
+
+1. Nivel operativo:
+
+Permite gestionar las ventas diarias y el control del inventario, facilitando las tareas cotidianas del negocio.
+
+2. Nivel administrativo o táctico:
+
+Ayuda a organizar la información de ventas y productos, permitiendo tomar decisiones sobre 
+
+reposición de inventario, manejo de productos y control del negocio.
+
+3. Nivel estratégico:
+
+Proporciona información sobre tendencias de ventas e ingresos, lo que permite planificar
+
+estrategias para mejorar el crecimiento y la rentabilidad del negocio.
+
+## ¿Qué decisiones permitirá tomar?
+
+El sistema para Beauty Studio permitirá tomar diferentes decisiones importantes para el funcionamiento del negocio, tales como:
+
+1. Decisiones sobre inventario:
+
+* Saber cuándo es necesario reponer productos.
+
+* Identificar qué productos se venden más y cuáles tienen poca rotación.
+
+2. Decisiones de ventas:
+
+* Analizar cuáles días o periodos hay mayor cantidad de ventas.
+
+* Decidir si es necesario aplicar promociones o descuentos en ciertos productos.
+
+3. Decisiones administrativas:
+
+* Llevar un mejor control de los ingresos del negocio.
+
+* Organizar de forma más eficiente la gestión de productos y ventas.
+
+4. Decisiones de crecimiento del negocio:
+
+* Determinar qué productos conviene mantener, aumentar o retirar del inventario.
+
+* Planificar estrategias para mejorar las ventas y la atención al cliente.
+
+## ¿Qué pasaría si no existiera ese sistema?
+
+Si Beauty Studio no contara con este sistema, el negocio tendría que seguir manejando la
+
+información de forma manual o desorganizada, lo que podría generar varios problemas:
+
+1. Falta de control del inventario:
+
+Sería difícil saber cuántos productos hay disponibles, lo que podría causar faltantes o exceso de productos.
+
+2. Errores en el registro de ventas:
+
+Al registrar las ventas manualmente, podrían presentarse errores en cálculos o en la información registrada.
+
+3. Pérdida de tiempo en procesos administrativos:
+
+Los procesos como revisar inventario o calcular ingresos tomarían más tiempo.
+
+4. Dificultad para tomar decisiones:
+
+Sin información clara y organizada, sería más complicado analizar ventas, controlar ingresos y planificar mejoras para el negocio.
+
