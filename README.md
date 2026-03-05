@@ -284,3 +284,81 @@ Si, el sistema para Beauty Studio almacena permanentemente la información en un
 El sistema no solo procesa y valida la información, sino que también la guarda de manera segura y
 
 organizada, asegurando disponibilidad y confiabilidad para la gestión administrativa de Beauty Studio.
+
+## Salidas ( outputs )
+
+¿Qué obtiene el usuario?
+
+el usuario de Beauty Studio obtiene información procesada, organizada y útil para la toma de 
+
+decisiones, no solo datos aislados.
+
+1. Información en tiempo real:
+
+* Estado actual del inventario.
+
+* Cantidad disponible de cada producto.
+
+* Registro actualizado de ventas.
+
+2. Reportes:
+
+* Reporte de ventas diarias, semanales o mensuales.
+
+* Reporte de productos más vendidos.
+
+* Reporte de productos con bajo stock.
+
+¿ Qué genera el sistema ?
+
+El sistema implementado en Beauty Studio genera información estructurada y resultados automáticos
+
+a partir de los datos ingresados y procesados.
+
+1. Reportes:
+
+* Reportes de ventas por día, semana o mes.
+
+* Reportes de inventario actualizado.
+
+* Reportes de productos más vendidos.
+
+* Reportes de ingresos totales.
+
+2. Comprobantes o facturas:
+
+* Generación de comprobantes de venta.
+
+* Registro digital de cada transacción realizada.
+
+¿Permite tomar decisiones?
+
+Si, el sistema implementado en Beauty Studio funciona como una herramienta de apoyo para
+
+la toma de decisiones estratégicas y operativas.
+
+1. Decisiones financieras:
+
+* Muestra los ingresos diarios, semanales y mensuales.
+
+* Permite evaluar si el negocio está generando ganancias.
+
+* Facilita el control de flujo de dinero.
+
+2. Decisiones sobre inventario: 
+
+* Permite identificar qué productos se venden más.
+
+* Detecta productos con baja rotación.
+
+* Ayuda a decidir cuándo realizar nuevos pedidos a proveedores.
+
+3. Decisiones administrativas:
+
+* Controla el desempeño en ventas.
+
+* Permite organizar mejor los recursos del negocio.
+
+el sistema genera información útil, organizada y automatizada, que facilita el control del 
+
+negocio, mejora la eficiencia operativa y fortalece la gestión administrativa en Beauty Studio.
