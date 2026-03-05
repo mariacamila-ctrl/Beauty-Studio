@@ -603,3 +603,68 @@ Los procesos como revisar inventario o calcular ingresos tomarían más tiempo.
 
 Sin información clara y organizada, sería más complicado analizar ventas, controlar ingresos y planificar mejoras para el negocio.
 
+## Objetivo General
+
+Desarrollar un sistema informático para Beauty Studio que permita gestionar de manera eficiente el inventario y 
+
+el registro de ventas, con el fin de mejorar el control de los productos, reducir errores en los procesos administrativos 
+
+y facilitar la toma de decisiones dentro del negocio.
+
+## Objetivos Específicos
+
+1. Diseñar un sistema que permita registrar y controlar el inventario de los productos de Beauty Studio,
+
+manteniendo información actualizada sobre cantidades disponibles y niveles de stock.
+
+2. Implementar un módulo de registro de ventas que almacene automáticamente las transacciones realizadas y 
+
+genere reportes que faciliten el control administrativo del negocio.
+
+## Nivel de decisión principal que impacta
+
+El sistema para Beauty Studio impacta principalmente en el nivel operativo, ya que facilita las actividades 
+
+diarias del negocio, como el registro de ventas y el control del inventario. Gracias al sistema, los empleados 
+
+pueden realizar estas tareas de forma más rápida, organizada y con menos errores,
+
+permitiendo un mejor funcionamiento en las operaciones cotidianas del negocio.
+
+## Características críticas que debe cumplir
+
+El sistema para Beauty Studio debe cumplir con las siguientes características críticas para garantizar 
+
+su correcto funcionamiento:
+
+1. Exactitud en la información:
+
+El sistema debe registrar correctamente las ventas y el inventario para evitar errores en los datos.
+
+2. Seguridad de los datos:
+
+Debe proteger la información mediante usuarios, contraseñas y permisos, evitando accesos no autorizados.
+
+3. Disponibilidad de la información:
+
+Los datos deben estar disponibles en todo momento para poder consultar ventas e inventario cuando sea necesario.
+
+4. Facilidad de uso:
+
+La interfaz del sistema debe ser simple y fácil de utilizar, para que los empleados puedan usarlo sin dificultad.
+
+5. Actualización automática:
+
+El inventario debe actualizarse automáticamente cada vez que se registre una venta.
+
+## ¿Qué decisión permitirá tomar?
+
+El sistema permitirá tomar decisiones relacionadas principalmente con la gestión del inventario y las ventas en Beauty Studio.
+
+Por ejemplo, permitirá decidir cuándo es necesario reponer productos, identificar qué productos se 
+
+venden más y conocer cuánto se está vendiendo en determinados periodos.
+
+De esta manera, el sistema ayudará a mejorar la organización del negocio y a tomar decisiones basadas
+
+en información real y actualizada.
