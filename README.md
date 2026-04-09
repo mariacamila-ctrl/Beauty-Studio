@@ -591,3 +591,6 @@ venden más y conocer cuánto se está vendiendo en determinados periodos.
 De esta manera, el sistema ayudará a mejorar la organización del negocio y a tomar decisiones basadas
 
 en información real y actualizada
+
+
+https://drive.google.com/file/d/1GerUW5GsERzruW04ldyhIM0wUgGoLzPP/view?usp=sharing
