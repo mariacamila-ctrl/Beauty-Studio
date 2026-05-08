@@ -271,3 +271,5 @@ Estratégico: crecimiento y rentabilidad
 * Pérdida de tiempo
 
 * Dificultad para tomar decisiones
+
+  
